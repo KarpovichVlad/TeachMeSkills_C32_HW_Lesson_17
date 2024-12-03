@@ -1,6 +1,6 @@
 package com.teachmeskills.c32.hw.lesson_17.task1;
 
-import com.teachmeskills.c32.hw.lesson_17.task1.computation.Logic;
+import com.teachmeskills.c32.hw.lesson_17.task1.operations.Logic;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;

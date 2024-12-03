@@ -1,4 +1,4 @@
-package com.teachmeskills.c32.hw.lesson_17.task1.computation;
+package com.teachmeskills.c32.hw.lesson_17.task1.operations;
 
 import com.teachmeskills.c32.hw.lesson_17.task1.interfaces.MyFunction;
 
